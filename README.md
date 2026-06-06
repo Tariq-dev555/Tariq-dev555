@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="IMAGE_LINK_HERE" alt="Banner" width="100%">
+  <img src="https://github.com/Tariq-dev555/Tariq-dev555/blob/main/Gemini_Generated_Image_sp7c85sp7c85sp7c.png?raw=true" alt="Banner" width="100%">
 </p>
+
 # Hi, I'm Muhammad Tariq 👋
 
 ### Aspiring Front-End Developer from Pakistan 🇵🇰
