@@ -1,34 +1,71 @@
 # Hi, I'm Muhammad Tariq 👋
 
+### Aspiring Front-End Developer from Pakistan 🇵🇰
+
+I enjoy building responsive, user-friendly websites and continuously improving my web development skills.
+
+---
+
 ## 🚀 About Me
 
-Aspiring Front-End Developer from Pakistan.
+* 🌱 Currently learning **JavaScript**
+* 💻 Building responsive websites using **HTML & CSS**
+* 🎯 Goal: Become a Professional Front-End Developer
+* 📍 Karachi, Pakistan
 
-I enjoy building responsive and user-friendly websites using modern web technologies.
+---
 
 ## 🛠 Skills
+
+### Front-End
 
 * HTML5
 * CSS3
 * Responsive Design
 * Flexbox
+* CSS Grid
+
+### Tools
+
 * Git
 * GitHub
+* VS Code
+* Figma
 
-## 🌱 Currently Learning
+---
 
-* JavaScript
-* Bootstrap
-* Tailwind CSS
+## 📂 Featured Projects
 
-## 📫 Contact
+### 🚖 Ride Sharing Website
 
-Email: [mt0003560@gmail.com](mailto:mt0003560@gmail.com)
+A fully responsive ride-sharing landing page built with HTML and CSS.
+
+### 🌍 Travel Website
+
+Modern travel website with responsive design.
+
+### 👨‍💻 Personal Portfolio
+
+Personal portfolio showcasing my skills and projects.
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [mt0003560@gmail.com](mailto:mt0003560@gmail.com)
+
+🔗 GitHub: github.com/Tariq-dev555
+
+---
 
 ## 🎯 2026 Goals
 
-* Build 10+ Front-End Projects
 * Learn JavaScript
+* Learn Tailwind CSS
+* Learn React
+* Build 10+ Front-End Projects
 * Create a Professional Portfolio Website
-* Contribute to Open Source
 
+---
+
+⭐ Thanks for visiting my profile!
