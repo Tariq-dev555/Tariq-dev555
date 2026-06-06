@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="IMAGE_LINK_HERE" alt="Banner" width="100%">
+</p>
 # Hi, I'm Muhammad Tariq 👋
 
 ### Aspiring Front-End Developer from Pakistan 🇵🇰
