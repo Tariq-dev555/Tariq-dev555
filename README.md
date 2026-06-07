@@ -56,6 +56,8 @@ Personal portfolio showcasing my skills and projects.
 
 ## 📫 Contact Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tariq-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-tariq-1a8421405/)
+
 📧 Email: [mt0003560@gmail.com](mailto:mt0003560@gmail.com)
 
 🔗 GitHub: github.com/Tariq-dev555
